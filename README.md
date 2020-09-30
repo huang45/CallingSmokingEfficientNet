@@ -1,3 +1,7 @@
+
+
+以下是原repo描述，感谢作者。
+
 # FireSmokeDetectionByEfficientNet
 [EfficientNet](https://arxiv.org/abs/1905.11946) is a wonderful classification network. the efficientnet implementation refer to [[EfficientNet-PyTorch](https://github.com/lukemelas/EfficientNet-PyTorch)](https://github.com/lukemelas/EfficientNet-PyTorch). I refer much of the code from the above implementation, and construct a network with the efficientnet feature extract layers and a fc layer of 3 output node for my fire & smoke detection task.
 
